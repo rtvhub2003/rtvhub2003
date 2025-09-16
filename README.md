@@ -2,7 +2,7 @@
 
 # RTVHUB2003
 
-!(https://github-readme-stats.vercel.app/api?username=rtvhub2003&show_icons=true&theme=transparent)
+![Github Status] (https://github-readme-stats.vercel.app/api?username=rtvhub2003&show_icons=true&theme=transparent)
 
 Here are some ideas to get you started:
 
