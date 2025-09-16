@@ -4,7 +4,12 @@
 <Table align='center'>
   <tr>
     <td>
-      ![Github Status] (https://github-readme-stats.vercel.app/api?username=rtvhub2003&show_icons=true&theme=transparent)
+      ![Github Status](https://github-readme-stats.vercel.app/api?username=rtvhub2003&show_icons=true&theme=transparent)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src='https://github-readme-stats.vercel.app/api?username=rtvhub2003&show_icons=true&theme=transparent'>
     </td>
   </tr>
 </Table>
