@@ -19,5 +19,8 @@
     <td>
       <img src='/announcements.png'>
     </td>
+    <td>
+      <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=rtvhub2003&hide_progress=false'>
+    </td>
   </tr>
 </Table>
