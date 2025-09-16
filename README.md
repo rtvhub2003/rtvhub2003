@@ -2,6 +2,8 @@
 
 # RTVHUB2003
 
+(https://github-readme-stats.vercel.app/api?username=rtvhub2003&show_icons=true&theme=transparent)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,3 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 
