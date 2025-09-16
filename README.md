@@ -17,6 +17,7 @@
   <tr>
     <td>
       <img src='https://media-cdn.dovetailgames.com/2024/082024/08/TrainingCenterBr146-2Dosto.gif'>
+      <svg src='https://media-cdn.dovetailgames.com/2024/082024/08/TrainingCenterBr146-2Dosto.gif'></svg>
     </td>
   </tr>
 </Table>
