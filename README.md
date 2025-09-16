@@ -13,3 +13,11 @@
 </Table>
 
 🔭 🌱 👯 🤔 💬 📫 😄 ⚡
+
+<Table align='center'>
+  <tr>
+    <td>
+      <img src='/announcements.png'>
+    </td>
+  </tr>
+</Table>
